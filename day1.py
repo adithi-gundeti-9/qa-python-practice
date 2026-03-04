@@ -17,3 +17,5 @@ print("I study", weekly_study_minutes,"minutes per week")
 
 #String formatting (modern way)
 print(f"In 6 months, {my_name} will be an automation engineer.")
+
+#testing CI workflow
